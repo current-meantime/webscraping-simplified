@@ -3,6 +3,7 @@
 
 This repository provides a straightforward introduction to web scraping, designed for those new to the topic. The materials here - `webscraping_simplified.md` and `webscraping_simplified.py` - offer a concise, practical guide without overwhelming detail.
 
+**UPDATE:** `interactive_scraping.ipynb` was added. Move this file to your own Google Collab or Jupyter Notebook and play around with it. It combines both of the files mentioned above.
 ## Aim
 
 The goal is to explain web scraping basics in a clear, accessible way. This guide covers:
